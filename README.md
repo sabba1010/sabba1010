@@ -19,7 +19,7 @@ I'm a passionate and detail-oriented web developer who enjoys building dynamic, 
 🎓 I’m currently studying at **Daffodil Polytechnic Institute**  
 🌱 I’m currently learning **Web Development** and **Programming**  
 💬 Ask me about **Web Development** — I enjoy solving problems and building cool stuff  
-📫 How to reach me: **sabbahossqain@gmail.com**
+📫 How to reach me: **sabbahossain@gmail.com**
 
 ---
 
