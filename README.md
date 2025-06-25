@@ -14,11 +14,17 @@ I'm a passionate and detail-oriented web developer who enjoys building dynamic, 
 
 ## 🚀 What I'm Up To
 
-- 🔭 I’m currently working on a **Marathon Management System**
-- 🌱 I’m exploring **Next.js** and **TypeScript**
-- 🛠️ Building a full-stack **Plant Care Tracker**
-- 💡 Practicing **Firebase Auth** & **JWT Integration**
-- 🧩 Participating in coding challenges and hackathons
+## 👋 Hello, I'm Sabbah Hossain!
+
+🎓 I’m currently studying at **Daffodil Polytechnic Institute**  
+🌱 I’m currently learning **Web Development** and **Programming**  
+💬 Ask me about **Web Development** — I enjoy solving problems and building cool stuff  
+📫 How to reach me: **sabbahossqain@gmail.com**
+
+---
+
+🚀 I'm passionate about creating user-friendly and responsive web applications using modern tools and technologies.
+
 
 ---
 
