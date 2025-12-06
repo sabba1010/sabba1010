@@ -66,10 +66,7 @@ I'm a passionate and detail-oriented web developer who enjoys building dynamic, 
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sabba1010&show_icons=true&theme=radical" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabba1010&layout=compact&theme=radical" width="48%"/>
-</p>
+
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sabba1010&theme=radical" width="96%"/>
