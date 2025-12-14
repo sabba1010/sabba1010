@@ -55,7 +55,7 @@ I'm a passionate and detail-oriented web developer who enjoys building dynamic, 
     <img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white"/>
   </a>
   
-    <img src="https://img.shields.io/badge/-Fiverr-1DBF73?style=flat&logo=fiverr&logoColor=white"/>
+   
   </a>
   <a href="https://github.com/sabba1010" target="_blank">
     <img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white"/>
