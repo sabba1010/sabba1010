@@ -30,8 +30,7 @@ Currently sharpening my skills through , with strong hands-on MERN experience.
 
 ##  Tech Expertise
 
-###  Current Stack (Programming Hero – Level 2)
-
+###  Current Stack 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,react,next,ts,tailwind,node,express,mongodb&theme=dark" />
 </p>
