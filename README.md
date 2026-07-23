@@ -1,71 +1,89 @@
-<!-- ===================================================== -->
-<!--                  PREMIUM GITHUB PROFILE               -->
-<!-- ===================================================== -->
+
+<!-- ========================================================= -->
+<!--                 PREMIUM GITHUB PROFILE                     -->
+<!-- ========================================================= -->
 
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0F172A,50:1E3A8A,100:06B6D4&text=Sabba%20Hossain&fontColor=FFFFFF&fontSize=55&fontAlignY=38&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:020617,35:0F172A,65:1E3A8A,100:06B6D4&text=Sabba%20Hossain&fontColor=ffffff&fontSize=58&fontAlignY=38&animation=fadeIn"/>
 </p>
 
 <h1 align="center">Hi 👋 I'm Sabba Hossain</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3500&pause=1000&color=06B6D4&center=true&vCenter=true&width=650&lines=Full+Stack+MERN+Developer;React+%7C+Next.js+%7C+Node.js;Building+Modern+Web+Applications;Always+Learning+New+Technologies" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=22D3EE&center=true&vCenter=true&width=700&lines=Full-Stack+Web+Developer;Building+Modern+Web+Applications;React+•+Next.js+•+Node.js;Clean+Code+%7C+Scalable+Architecture;Always+Learning+New+Technologies"/>
 </p>
 
 <p align="center">
-  <a href="https://github.com/sabba1010">
-    <img src="https://komarev.com/ghpvc/?username=sabba1010&label=Profile+Views&color=0ea5e9&style=for-the-badge"/>
-  </a>
-  <img src="https://img.shields.io/github/followers/sabba1010?style=for-the-badge&logo=github"/>
-  <img src="https://img.shields.io/github/stars/sabba1010?style=for-the-badge"/>
+
+<a href="https://github.com/sabba1010">
+<img src="https://komarev.com/ghpvc/?username=sabba1010&label=Profile+Views&style=for-the-badge&color=0891b2"/>
+</a>
+
+<img src="https://img.shields.io/github/followers/sabba1010?style=for-the-badge&logo=github"/>
+
+<img src="https://img.shields.io/github/stars/sabba1010?style=for-the-badge"/>
+
 </p>
 
 ---
 
-# 🚀 About Me
+# 💫 About Me
 
-<img align="right" width="340" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
+<img align="right" width="340" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif"/>
 
-### 👨‍💻 Full Stack MERN Developer
+```ts
+const sabba = {
+    role: "Full Stack Web Developer",
+    location: "Bangladesh 🇧🇩",
 
-I'm passionate about creating modern, scalable, and responsive web applications with clean architecture and intuitive user experiences.
+    frontend: [
+        "React",
+        "Next.js",
+        "TypeScript",
+        "Tailwind CSS"
+    ],
 
-### 🎯 Current Focus
+    backend: [
+        "Node.js",
+        "Express.js",
+        "REST APIs",
+        "JWT"
+    ],
 
-- 🚀 Advanced MERN Stack
-- ⚛️ Next.js
-- 🔥 TypeScript
-- 🧠 System Design Basics
-- 🐳 Docker
-- ⚡ Prisma
+    database: [
+        "MongoDB"
+    ],
 
-### 🎓 Education
+    learning: [
+        "Docker",
+        "PostgreSQL",
+        "Prisma",
+        "System Design",
+        "Cloud"
+    ],
 
-- Daffodil Polytechnic Institute
+    passion: "Building scalable web applications."
+}
+```
 
-### 💡 Strengths
-
-- Clean Code
-- REST APIs
-- Responsive Design
-- Authentication
-- Team Collaboration
-- Problem Solving
-
-### 📫 Contact
-
-- 📧 **sabbahossain@gmail.com**
-- 🌐 **https://sabba-hossain.vercel.app/**
+- 🚀 Full-Stack Web Developer
+- 💻 Passionate about clean architecture
+- 🎯 Building scalable applications
+- 📚 Constantly learning modern technologies
+- 🤝 Open to collaboration
+- 🎓 Daffodil Polytechnic Institute
+- 🌐 Portfolio: https://sabba-hossain.vercel.app
+- 📧 Email: sabbahossain@gmail.com
 
 ---
 
-# 💻 Tech Stack
+# ⚡ Tech Stack
 
 ## Frontend
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,tailwind,redux"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,tailwind"/>
 
 </p>
 
@@ -75,7 +93,17 @@ I'm passionate about creating modern, scalable, and responsive web applications 
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase"/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,firebase"/>
+
+</p>
+
+---
+
+## Database
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=mongodb"/>
 
 </p>
 
@@ -95,7 +123,7 @@ I'm passionate about creating modern, scalable, and responsive web applications 
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=prisma,postgres,docker"/>
+<img src="https://skillicons.dev/icons?i=docker,postgres,prisma"/>
 
 </p>
 
@@ -113,21 +141,10 @@ I'm passionate about creating modern, scalable, and responsive web applications 
 
 <p align="center">
 
-<img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabba1010&layout=compact&theme=tokyonight&hide_border=true"/>
+<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabba1010&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
----
-
-# 🏆 GitHub Trophy
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=sabba1010&theme=algolia&no-frame=true&margin-w=12&margin-h=12"/>
-
-</p>
-
----
 
 # 📈 Contribution Graph
 
@@ -139,45 +156,21 @@ I'm passionate about creating modern, scalable, and responsive web applications 
 
 ---
 
-# 📊 Profile Summary
+
+
+# 🌎 Connect With Me
 
 <p align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sabba1010&theme=github_dark"/>
-
-</p>
-
-<p align="center">
-
-<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sabba1010&theme=github_dark"/>
-
-<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sabba1010&theme=github_dark"/>
-
-</p>
-
-<p align="center">
-
-<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sabba1010&theme=github_dark"/>
-
-<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sabba1010&theme=github_dark&utcOffset=6"/>
-
-</p>
-
----
-
-# 🌐 Connect With Me
-
-<p align="center">
-
-<a href="https://sabba-hossain.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-06B6D4?style=for-the-badge&logo=vercel&logoColor=white"/>
+<a href="https://sabba-hossain.vercel.app">
+<img src="https://img.shields.io/badge/Portfolio-0EA5E9?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/sabba-hossain">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://www.facebook.com/sabba.hossain.niloy/">
+<a href="https://www.facebook.com/sabba.hossain.niloy">
 <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
 </a>
 
@@ -193,22 +186,11 @@ I'm passionate about creating modern, scalable, and responsive web applications 
 
 ---
 
-# 🚀 Featured Projects
-
-| Project | Live | Tech |
-|---------|------|------|
-| Portfolio Website | https://sabba-hossain.vercel.app/ | Next.js, Tailwind |
-| MERN Project 1 | Add Link | React, Express, MongoDB |
-| MERN Project 2 | Add Link | MERN Stack |
-| MERN Project 3 | Add Link | Next.js |
-
----
-
-# 💡 Developer Quote
+# 💭 Philosophy
 
 <p align="center">
 
-> **"Consistency builds mastery. Every commit makes you a better developer."**
+> **"Great software isn't written by chance—it's crafted through consistency, curiosity, and continuous improvement."**
 
 </p>
 
@@ -216,6 +198,7 @@ I'm passionate about creating modern, scalable, and responsive web applications 
 
 <p align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:06B6D4,50:1E3A8A,100:0F172A"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:06B6D4,50:1E3A8A,100:020617"/>
 
 </p>
+````
